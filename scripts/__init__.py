@@ -1,0 +1,1 @@
+"""Collective reading pipeline."""

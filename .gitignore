@@ -1,0 +1,10 @@
+secrets.env
+runtime/browser-profile/
+runtime/logs/
+runtime/temp/
+runtime/cache/
+runtime/save_location.json
+data/library/
+exports/
+__pycache__/
+*.py[cod]
